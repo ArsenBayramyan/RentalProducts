@@ -1,0 +1,44 @@
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.deps.json
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfo.cs
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.deps.json
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csprojAssemblyReference.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfoInputs.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfo.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.deps.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csprojAssemblyReference.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfoInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csproj.CoreCompileInputs.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.deps.json
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csprojAssemblyReference.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfoInputs.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfo.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csproj.CoreCompileInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.deps.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csproj.CoreCompileInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfoInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.AssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.Core\obj\Debug\netstandard2.0\RentalProducts.Core.csprojAssemblyReference.cache

@@ -1,0 +1,194 @@
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.deps.json
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.runtimeconfig.json
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.runtimeconfig.dev.json
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.BLL.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.Core.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.DAL.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.BLL.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.DAL.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.Core.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csprojAssemblyReference.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.AssemblyInfoInputs.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.AssemblyInfo.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorAssemblyInfo.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorAssemblyInfo.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.TagHelpers.input.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.TagHelpers.output.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorCoreGenerate.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorTargetAssemblyInfo.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorTargetAssemblyInfo.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csproj.CopyComplete
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.genruntimeconfig.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.Views.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.Views.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.Views.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csproj.CoreCompileInputs.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.deps.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.runtimeconfig.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.runtimeconfig.dev.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.Views.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.Views.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.BLL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.Core.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.DAL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.BLL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.DAL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csprojAssemblyReference.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csproj.CoreCompileInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorAssemblyInfo.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorAssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.AssemblyInfoInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.AssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.TagHelpers.input.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.TagHelpers.output.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorCoreGenerate.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorTargetAssemblyInfo.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorTargetAssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.Views.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csproj.CopyComplete
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.genruntimeconfig.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.deps.json
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.runtimeconfig.json
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.runtimeconfig.dev.json
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.Views.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.Views.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.BLL.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.Core.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.DAL.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.BLL.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.DAL.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.Core.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csprojAssemblyReference.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csproj.CoreCompileInputs.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorAssemblyInfo.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorAssemblyInfo.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.AssemblyInfoInputs.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.AssemblyInfo.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.TagHelpers.input.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.TagHelpers.output.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorCoreGenerate.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorTargetAssemblyInfo.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorTargetAssemblyInfo.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.Views.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csproj.CopyComplete
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.genruntimeconfig.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.deps.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.runtimeconfig.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.runtimeconfig.dev.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.Views.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProduct.PL.Views.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.BLL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.Core.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.DAL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.BLL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.DAL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\bin\Debug\netcoreapp2.1\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csprojAssemblyReference.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csproj.CoreCompileInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorAssemblyInfo.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorAssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.AssemblyInfoInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.AssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.TagHelpers.input.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.TagHelpers.output.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorCoreGenerate.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorTargetAssemblyInfo.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.RazorTargetAssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.Views.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.csproj.CopyComplete
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\RentalProduct.PL.genruntimeconfig.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProduct.PL\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs

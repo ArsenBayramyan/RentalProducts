@@ -1,0 +1,41 @@
+﻿@model RentalProduct.PL.Models.ViewModels.OrderCustomerViewModel
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" asp-route-id="">
+            <label class="jumbotron mb-0 text-center" style="padding:12px; width: 100%; margin-bottom: 20px; margin-top: 15px">Create Order</label>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <label asp-for="OrderType" class="control-label"></label>
+                <select asp-for="OrderType" class="form-control">
+                    <option value="1">Heavy</option>
+                    <option value="2">Regular</option>
+                    <option value="3">Specialized</option>
+                </select>
+                <span asp-validation-for="OrderType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Days" class="control-label"></label>
+                <input asp-for="Days" class="form-control" />
+                <span asp-validation-for="Days" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-controller="Home">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

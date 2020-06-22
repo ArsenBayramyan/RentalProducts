@@ -1,0 +1,39 @@
+﻿@model RentalProducts.DAL.Models.ViewModels.ViewModels
+
+<div class="card-title">
+    <label class="jumbotron mb-0 text-center" style="padding:12px; width: 100%; margin-bottom: 5px;">Get Report by Customer Name</label>
+    <div class="input-group">
+        <input type="text" id="inputValue" class="form-control" />
+        <span class="input-group-btn">
+            <button id="#downloadExcel" onclick="SaveExcel()" type="submit" class="btn btn-success btn-block">Download</button>
+        </span>
+    </div>
+</div>
+<div>
+    <h3>
+        <strong>@Model.Name</strong>
+        <span class="pull-right label-warning">
+        </span>
+    </h3>
+
+    <form asp-action="Create"
+          asp-controller="Orders" method="get">
+        <label class="jumbotron mb-0 text-center" style="padding:12px; width: 100%; margin-bottom: 5px; margin-top: 15px">Product List</label>
+       
+        @foreach (var item in Model.Products)
+        {
+            <li class="list-group-item" style="        display: flex;
+        justify-content: space-between;">
+                <div style="position:relative; top: 7px">
+                    @item.Name
+                </div>
+                <button type="submit" asp-action="Create" asp-controller="Orders" asp-route-id="@item.Id" class="btn btn-success">
+                    Rent
+                </button>
+            </li>
+        }
+
+
+    </form>
+</div>
+

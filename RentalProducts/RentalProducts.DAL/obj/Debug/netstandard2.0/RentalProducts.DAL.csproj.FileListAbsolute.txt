@@ -1,0 +1,60 @@
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.deps.json
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csprojAssemblyReference.cache
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfo.cs
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CopyComplete
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\comp\source\repos\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.deps.json
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csprojAssemblyReference.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfoInputs.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfo.cs
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CopyComplete
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\Mqoyan\Desktop\New folder\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.deps.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csprojAssemblyReference.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfoInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CopyComplete
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.deps.json
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csprojAssemblyReference.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfoInputs.cache
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfo.cs
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CopyComplete
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\henrik.mqoyan\Desktop\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.deps.json
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.DAL.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\bin\Debug\netstandard2.0\RentalProducts.Core.pdb
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csprojAssemblyReference.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CoreCompileInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfoInputs.cache
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.AssemblyInfo.cs
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.csproj.CopyComplete
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.dll
+C:\Users\comp\Desktop\RentalProducts\RentalProducts\RentalProducts\RentalProducts.DAL\obj\Debug\netstandard2.0\RentalProducts.DAL.pdb

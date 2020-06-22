@@ -1,0 +1,52 @@
+﻿@model RentalProducts.DAL.Models.ViewModels.ViewModels
+
+<h2 class="text-center">@Model.Customers.FirstOrDefault().Name's Orders</h2>
+</br>
+</br>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Days</th>
+            <th>Price</th>
+            <th>LoyaltyPoint</th>
+            <th>ProductName</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Orders)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Days)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LoyaltyPoint)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.Products.Where(p => p.Id == item.ProductId).FirstOrDefault().Name)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<div style="margin-bottom: 35px">
+    <span class="lead">
+        <input type="hidden" id="inputValue" value="@Model.Customers.FirstOrDefault().Name" />
+        <button style="display:block; margin:0 auto " onclick="SaveExcel()" type="submit" class="btn btn-success">
+            Download
+        </button>
+    </span>
+    <div>
+        <a asp-action="Index" asp-controller="Home" style="display:block; margin:0 auto ">Back to Home</a>
+    </div>
+</div>
